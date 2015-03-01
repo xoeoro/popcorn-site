@@ -54,17 +54,17 @@
         "play": "Натисніть \"грати\"<br>і насолоджуйтесь!"
     },
     "get-app": {
-        "new": "A whole new way to watch movies and TV",
-        "popcorn": "Just take care of the popcorn and leave the rest to us."
+        "new": "Абсолютно новий спосіб дивитись фільми та телебачення",
+        "popcorn": "Дбайте лише про попкорн, всі інші клопоти залиште нам."
     },
     "email": {
         "placeholder": "E-mail адреса",
-        "subscribe": "Subscribe",
-        "notified": "Get notified when a new version is available"
+        "subscribe": "Підписатись",
+        "notified": "Отримуйте повідомлення про нову версію"
     },
     "footer": {
         "faq": "FAQ",
         "tos": "Угода користувача",
-        "con": "Contact us / About"
+        "con": "Зв'язатись з нами / Про програму"
     }
 }
